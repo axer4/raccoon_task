@@ -1,0 +1,9 @@
+.mugs_heading {
+    margin: 0px 15px;
+    margin-bottom: 100px;
+}
+.mugs_headingBlock {
+    display: flex;
+    justify-content: center;
+}
+

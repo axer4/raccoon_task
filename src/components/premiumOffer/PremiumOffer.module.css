@@ -1,0 +1,70 @@
+.offer_heading {
+    text-transform: uppercase;
+    margin: 0px 15px;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.offer_headingBlock {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.content_images {
+    display: flex;
+}
+
+.notepad_image {
+    margin-right: 20px;
+}
+
+.images_item:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.content_heading {
+    margin-bottom: 14px;
+}
+
+.content_offer {
+    font-size: 36px;
+    line-height: 50px;
+    color: #1D1F2E;
+    text-align: start;
+    margin-bottom: 15px;
+}
+
+.offer_content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.content_text {
+    max-width: 295px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.content_description {
+    text-align: start;
+    margin-bottom: 34px;
+}
+
+.content_button {
+    padding: 9px 0px;
+    min-width: 173px;
+    background: #1D1F2E;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+}

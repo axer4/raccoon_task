@@ -1,9 +1,36 @@
 .mugs_heading {
     margin: 0px 15px;
-    margin-bottom: 100px;
 }
+
 .mugs_headingBlock {
     display: flex;
     justify-content: center;
+    margin-bottom: 100px;
 }
 
+.mugs_list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inline_block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mugs_item:not(:last-child) {
+    margin-right: 10px;
+}
+.mugs_item_redPrice {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 32px;
+    color: #A25F4B;
+    margin-right: 10px;
+}
+.mugs_item_oldPrice {
+text-decoration-line: line-through;
+color: rgba(29, 31, 46, 0.4);
+}

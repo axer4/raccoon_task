@@ -13,6 +13,28 @@ h6 {
     margin: 0;
 }
 
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: rgba(29, 31, 46, 0.7);
+}
+
+li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     font-style: normal;
     font-weight: 400;
@@ -20,6 +42,7 @@ h1 {
     line-height: 18px;
     letter-spacing: 2px;
     text-align: center;
+    text-transform: uppercase;
 }
 
 h2 {

@@ -28,8 +28,8 @@ const MoreProducts = () => {
                 alt='line'
                 />
                 </div>
-                <ul className={s.prdoucts_list}>
-                    <li className={s.products_item}>
+                <div className={s.prdoucts_list}>
+                    <div className={s.products_item}>
                         <img
                         src={redLoveCup}
                         alt='redLoveCup'
@@ -40,8 +40,8 @@ const MoreProducts = () => {
                             <p className={s.mugs_item_redPrice}>$25.00</p>
                             <p className={s.mugs_item_oldPrice}>$ 37.00 USD</p>
                             </div>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={blackTeaCup}
                         alt='blackTeaCup'
@@ -52,8 +52,8 @@ const MoreProducts = () => {
                             <p className={s.mugs_item_redPrice}>$15.00</p>
                             <p className={s.mugs_item_oldPrice}>$ 29.00 USD</p>
                             </div>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={essentialsMug}
                         alt='essentialMug'
@@ -61,8 +61,8 @@ const MoreProducts = () => {
                         />
                         <h2 className={s.products_heading}>B{`&`}W Essentials Mug</h2>
                         <p className={s.mugs_item_price}>$ 19.00 USD</p>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={winterStyleMug}
                         alt='winterStyleMug'
@@ -70,8 +70,8 @@ const MoreProducts = () => {
                         />
                         <h2 className={s.products_heading}>Winter Style Mug</h2>
                         <p className={s.mugs_item_price}>$ 25.00 USD</p>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={ceramicTea}
                         alt='ceramicTea'
@@ -79,8 +79,8 @@ const MoreProducts = () => {
                         />
                         <h2 className={s.products_heading}>Ceramic Tea</h2>
                         <p className={s.mugs_item_price}>$ 46.00 USD</p>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={noHandleCup}
                         alt='noHandleCup'
@@ -88,8 +88,8 @@ const MoreProducts = () => {
                         />
                         <h2 className={s.products_heading}>No Handle Bar Cup</h2>
                         <p className={s.mugs_item_price}>$ 34.00 USD</p>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={espressoCup}
                         alt='espressoCup'
@@ -97,8 +97,8 @@ const MoreProducts = () => {
                         />
                         <h2 className={s.products_heading}>Espresso Cup by Mugs.co</h2>
                         <p className={s.mugs_item_price}>$ 25.00 USD</p>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={pinkPremium}
                         alt='pinkPremium'
@@ -106,8 +106,8 @@ const MoreProducts = () => {
                         />
                         <h2 className={s.products_heading}>Pink Premium Ceramic</h2>
                         <p className={s.mugs_item_price}>$ 99.00 USD</p>
-                    </li>
-                    <li className={s.products_item}>
+                    </div>
+                    <div className={s.products_item}>
                         <img
                         src={summerCup}
                         alt='pinkPremium'
@@ -115,10 +115,12 @@ const MoreProducts = () => {
                         />
                         <h2 className={s.products_heading}>Summer Designer Cup</h2>
                         <p className={s.mugs_item_price}>$ 29.00 USD</p>
-                    </li>
-                </ul>
+                    </div>
+                    
+                </div>
              </section>
          </div>
+        
     )
 }
 export default MoreProducts;

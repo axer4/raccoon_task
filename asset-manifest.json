@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/raccoon_task/static/css/main.f15e23b0.css",
+    "main.js": "/raccoon_task/static/js/main.db4a21c1.js",
+    "static/media/pinkCeramic.png": "/raccoon_task/static/media/pinkCeramic.5d9266e03f35aaf031b2.png",
+    "static/media/goldenMug.png": "/raccoon_task/static/media/goldenMug.3b3ded9207178c590a6f.png",
+    "static/media/noHandleCup.png": "/raccoon_task/static/media/noHandleCup.86434b58334579e5b824.png",
+    "static/media/pinkPremium.png": "/raccoon_task/static/media/pinkPremium.ecdedacf51b85a2c2f8e.png",
+    "static/media/winterStyleMug.png": "/raccoon_task/static/media/winterStyleMug.20d7cd01d16f60a077d0.png",
+    "static/media/summerCup.png": "/raccoon_task/static/media/summerCup.75e6ba208a6412984338.png",
+    "static/media/espressoCup.png": "/raccoon_task/static/media/espressoCup.bba02e204076284389a0.png",
+    "static/media/redLoveCup.png": "/raccoon_task/static/media/redLoveCup.0e281fa7e1cb9e993683.png",
+    "static/media/ceramicTea.png": "/raccoon_task/static/media/ceramicTea.fa7217ddad5bde91b610.png",
+    "static/media/blackTeaCup.png": "/raccoon_task/static/media/blackTeaCup.98a59820a9e3e35fb355.png",
+    "static/media/notepad.png": "/raccoon_task/static/media/notepad.47c841ddfa3701512c99.png",
+    "static/media/essentialsMug.png": "/raccoon_task/static/media/essentialsMug.21dfc882d41b986ca3cb.png",
+    "static/media/cupOnHands.png": "/raccoon_task/static/media/cupOnHands.693ec30beccfbec534ee.png",
+    "static/media/cupOfCoffee.png": "/raccoon_task/static/media/cupOfCoffee.1144b1c287b99083e930.png",
+    "index.html": "/raccoon_task/index.html",
+    "static/media/line.svg": "/raccoon_task/static/media/line.fde5ae7c9de4fb5d24a3d396bf9596bd.svg",
+    "main.f15e23b0.css.map": "/raccoon_task/static/css/main.f15e23b0.css.map",
+    "main.db4a21c1.js.map": "/raccoon_task/static/js/main.db4a21c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15e23b0.css",
+    "static/js/main.db4a21c1.js"
+  ]
+}
